@@ -80,6 +80,9 @@ article {
   grid-template-rows: 2fr;
 }
 
+hr {
+  width: 200px;
+}
 .container_card {
   grid-column: 2;
   grid-row: 1;
