@@ -8,6 +8,9 @@
 body {
   background-color: #f5f6fa;
 }
+main {
+  margin-right: 50%;
+}
 
 a {
   text-decoration: none;
@@ -67,4 +70,42 @@ img {
   padding: 5px 10px;
   border: none;
   border-radius: 7px;
+}
+aside {
+  float: right;
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  border: ridge gray 1px;
+}
+
+hr {
+  border: ridge gray 1px;
+  width: 175px;
+  align-items: center;
+}
+
+ul.breadcrumb {
+  list-style: none;
+  align-items: center;
+}
+
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+
+.card_body .media {
+  text-align: center;
+}
+
+.card_body {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.Content {
+  border: ridge gray 1px;
+  border-radius: 7%;
+  padding: 5px;
 }
