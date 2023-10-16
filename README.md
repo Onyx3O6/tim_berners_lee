@@ -6,3 +6,4 @@ To take on this exciting challenge, I embarked on the task of recreating an exis
 
 
 ### The models that we we supposed to represent (desktop only)
+<img width="500" src="./image.png" alt="desktop">
